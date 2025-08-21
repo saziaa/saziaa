@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Stack
-Python · R · SQL · Tableau · Power BI · Git · Machine Learning · Deep Learning · NLP  
+Python · R · SQL · Tableau · Machine Learning · Deep Learning · NLP · Big Data Technologies  · Git
 
 ---
 
