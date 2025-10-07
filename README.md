@@ -13,10 +13,10 @@ Comprehensive data-driven analysis using machine learning and epidemiological mo
 *(Repository private while under publication review)*
 
 🤖 **[Alzheimer’s Stage Classification](https://github.com/saziaa/Alzheimer-s_Stage_Classification)**  
-Lightweight deep learning model (VGG16) for Alzheimer’s stage classification with explainable AI components.
+Lightweight deep learning model (VGG16) for Alzheimer’s stage classification with explainable AI components.  
 
 🏥 **[Predicting and Interpreting ED Length of Stay](https://github.com/saziaa/Predicting-and-Interpreting-ED-Length-of-Stay-A-Machine-Learning-Approach)**  
-Machine learning approach to predict emergency department wait times and interpret feature importance for hospital resource optimization.
+Machine learning approach to predict emergency department wait times and interpret feature importance for hospital resource optimization.  
 
 ⚡ **[Decoding Energy Consumption](https://github.com/saziaa/Decoding_Energy_Consumption)**  
 Machine learning and deep learning ensemble models to forecast energy consumption at the East Melbourne WWTP, enhanced with SHAP-based interpretability.
@@ -41,16 +41,15 @@ DOI: [10.48448/wa2f-7j45](https://doi.org/10.48448/wa2f-7j45)
 
 ## 📊 Tableau Portfolio
 
-Explore my **interactive visualizations** created on Tableau Public:
+Explore my **interactive visualizations** on Tableau Public:  
+🔗 [Visit my Tableau Portfolio](https://public.tableau.com/app/profile/sazia.afreen2039/vizzes)
 
-[![Tableau Public Profile](https://public.tableau.com/views/favicon.svg)](https://public.tableau.com/app/profile/sazia.afreen2039/vizzes)  
-[Visit my Tableau portfolio](https://public.tableau.com/app/profile/sazia.afreen2039/vizzes)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:** Python · R · SQL · Tableau · Power BI · Git · Big Data Technologies  
+**Languages & Tools:** Python · R · SQL · Tableau · Git · Big Data Technologies  
 **Core Skills:** Machine Learning · Deep Learning · NLP · Epidemiological Modeling · SHAP Interpretability
 
 ---
