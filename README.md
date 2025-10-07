@@ -8,10 +8,11 @@ I analyze data to uncover patterns in healthcare, environment, and policy — tu
 
 ## 🔗 Featured Projects
 
-📊 **[Lung Cancer & Pollution in Canada](https://github.com/saziaa/Lung-Cancer-Pollution-Canada)**  
-Data-driven exploration using machine learning and epidemiological models to examine pollutant exposure and lung cancer trends across provinces.
+📊 **Lung Cancer & Pollution in Canada** *(Under Publication)*  
+Comprehensive data-driven analysis using machine learning and epidemiological modeling to examine long-term pollutant exposure and lung cancer incidence trends across Canadian provinces.  
+*(Repository private while under publication review)*
 
-🤖 **[Alzheimer’s Stage Classification](https://github.com/saziaa/Alzheimers-Stage-Classification)**  
+🤖 **[Alzheimer’s Stage Classification](https://github.com/saziaa/Alzheimer-s_Stage_Classification)**  
 Lightweight deep learning model (VGG16) for Alzheimer’s stage classification with explainable AI components.
 
 🏥 **[Predicting and Interpreting ED Length of Stay](https://github.com/saziaa/Predicting-and-Interpreting-ED-Length-of-Stay-A-Machine-Learning-Approach)**  
