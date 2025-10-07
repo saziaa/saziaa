@@ -56,5 +56,5 @@ Explore my **interactive visualizations** on Tableau Public:
 
 ## 📫 Let’s Connect
 
-🌐 [LinkedIn](https://www.linkedin.com/in/saziaafreen)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sazia-afreen/)  
 📧 safreen_1911@yahoo.com  
