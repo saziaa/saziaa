@@ -12,6 +12,8 @@ I analyze data to uncover patterns in healthcare, environment, and policy — tu
 Comprehensive data-driven analysis using machine learning and epidemiological modeling to examine long-term pollutant exposure and lung cancer incidence trends across Canadian provinces.  
 *(Repository private while under publication review)*
 
+🏛️ **[Understanding Long-Term ODSP Reliance Across Ontario CMAs (2003–2024)](https://github.com/saziaa/ODSP-Ontario-Analysis)**
+A Policy-Focused Data Analysis & Forecasting Project Using R
  
 🏥 **[Predicting and Interpreting ED Length of Stay](https://github.com/saziaa/Predicting-and-Interpreting-ED-Length-of-Stay-A-Machine-Learning-Approach)**  
 Machine learning approach to predict emergency department wait times and interpret feature importance for hospital resource optimization.  
@@ -22,9 +24,7 @@ Machine learning and deep learning ensemble models to forecast energy consumptio
 🌍 **Social Determinants of Health & Chronic Disease** *(Collaborative project)*  
 Global analysis using XGBoost and SHAP to uncover how social determinants shape chronic disease patterns across countries.  
 [View summary](https://github.com/ishratbushra/ChroniCareAi-project)
-
-🤖 **[Alzheimer’s Stage Classification](https://github.com/saziaa/Alzheimer-s_Stage_Classification)**  
-Lightweight deep learning model (VGG16) for Alzheimer’s stage classification with explainable AI components. 
+ 
 👉 **[See more in my Portfolio Repository](https://github.com/saziaa/Portfolio)**
 
 
