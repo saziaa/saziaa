@@ -2,9 +2,9 @@
 
 🚀 **Data Analyst | Machine Learning Enthusiast | Health Analytics Researcher**
 
-I analyze data to uncover patterns in healthcare, environment, and policy — turning complex datasets into actionable insights.
+I analyze data to uncover patterns in healthcare, environment, and policy,turning complex datasets into actionable insights.
 
----
+--- 
 
 ## 🔗 Featured Projects
 
