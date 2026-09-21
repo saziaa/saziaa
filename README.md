@@ -12,6 +12,9 @@ I analyze data to uncover patterns in healthcare, environment, and policy, turni
 Comprehensive data-driven analysis using machine learning and epidemiological modeling to examine long-term pollutant exposure and lung cancer incidence trends across Canadian provinces.  
 *(Repository private while under publication review)*
 
+💼 **[Ontario Labour Market Analysis (2015–2025)](https://github.com/saziaa/ontario-labour-market-analysis)**
+A Longitudinal SQL & Data Integration Analysis of Pre-, During-, and Post-COVID Economic Recovery
+
 🏛️ **[Understanding Long-Term ODSP Reliance Across Ontario CMAs (2003–2024)](https://github.com/saziaa/ODSP-Ontario-Analysis)**
 
 A Policy-Focused Data Analysis & Forecasting Project Using R
